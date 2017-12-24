@@ -2,5 +2,3 @@
 node_modules
 .tmp
 .jshintrc
-package-lock.json
-idea/workspace.xml
