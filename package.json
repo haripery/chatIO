@@ -1,0 +1,22 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "chat website",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haripery/chatIO.git"
+  },
+  "author": "Hari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haripery/chatIO/issues"
+  },
+  "homepage": "https://github.com/haripery/chatIO#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
