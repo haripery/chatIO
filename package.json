@@ -4,7 +4,8 @@
   "description": "chat website",
   "main": "app/app.js",
   "scripts": {
-    "start": "node app/app.js"
+    "start": "node app/app.js",
+    "test": "qunit"
   },
   "repository": {
     "type": "git",
