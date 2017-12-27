@@ -18,8 +18,5 @@
   "homepage": "https://github.com/haripery/chatIO#readme",
   "dependencies": {
     "express": "^4.16.2"
-  },
-  "devDependencies": {
-    "qunit": "^2.4.1"
   }
 }
